@@ -11,7 +11,7 @@ import pandas as pd
 import torch
 import torch.nn as nn
 import numpy as np
-import plotly.graph_objects as go
+from plotly import graph_objects as go
 from sklearn.preprocessing import MinMaxScaler
 import random
 import time
