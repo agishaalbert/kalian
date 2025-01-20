@@ -10,6 +10,5 @@ torchdata==0.7.1
 xlrd==1.2.0
 streamlit==1.40.1
 plotly
-python==3.11.7
 cython>=3.0
 
