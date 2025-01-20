@@ -5,9 +5,7 @@ numpy
 SciencePlots
 scikit-learn
 dgl==1.1.2
-torch==2.0.1
-torchdata==0.6.1
+torch
 xlrd==1.2.0
 streamlit
 plotly
-python==3.9.0
