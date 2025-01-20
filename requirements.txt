@@ -1,13 +1,12 @@
-pandas
-tqdm
-matplotlib
-numpy
-SciencePlots
-scikit-learn
-dgl==1.1.0  # Replace with the appropriate version based on your torch version
-torch==2.0.1+cpu  # Use +cu117 for CUDA if on a GPU-enabled environment
-torchdata==0.6  # Matches torch version
+pandas==2.2.3
+tqdm==4.67.1
+matplotlib==3.10.0
+numpy==2.2.2
+SciencePlots==2.1.1
+scikit-learn==1.6.1
+dgl==2.1.0
+torch==2.0.1+cpu
+torchdata==0.6.1
 xlrd==1.2.0
-streamlit
-plotly
-logging
+streamlit==1.41.1
+plotly==5.24.1
