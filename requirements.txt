@@ -5,7 +5,6 @@ numpy
 SciencePlots
 scikit-learn
 dgl
-torch==2.0.1+cpu
 xlrd==1.2.0
 streamlit
 plotly
