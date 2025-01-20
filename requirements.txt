@@ -10,4 +10,4 @@ torchdata==0.6  # Matches torch version
 xlrd==1.2.0
 streamlit
 plotly
-
+logging
