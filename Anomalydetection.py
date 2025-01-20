@@ -16,8 +16,7 @@ from sklearn.preprocessing import MinMaxScaler
 import random
 import time
 from src.models import TranAD
-import logging
-logging.basicConfig(level=logging.DEBUG)
+
 
 
 # Set random seed for reproducibility
