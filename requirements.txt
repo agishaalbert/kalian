@@ -11,4 +11,4 @@ xlrd==1.2.0
 streamlit==1.40.1
 plotly
 cython>=3.0
-
+PyYAML==6.0.1
