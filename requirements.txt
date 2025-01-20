@@ -4,7 +4,7 @@ matplotlib==3.8.0
 numpy==1.26.4
 SciencePlots
 scikit-learn==1.2.2
-dgl==0.9.1
+dgl==1.1.1
 torch
 torchdata==0.7.1
 xlrd==1.2.0
