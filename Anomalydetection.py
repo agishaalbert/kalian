@@ -16,8 +16,8 @@ from sklearn.preprocessing import MinMaxScaler
 import random
 import time
 from src.models import TranAD
-import os
-os.environ['DGLBACKEND'] = 'pytorch'
+#import os
+#os.environ['DGLBACKEND'] = 'pytorch'
 
 
 
